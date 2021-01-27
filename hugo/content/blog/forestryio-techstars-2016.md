@@ -22,7 +22,7 @@ What this means for Forestry and our users:
 * We get to focus intensly on making Forestry awesome for our users. Stoked to be working 15-hour days!
 * Over $1,000,000 in [amazing "perks"](http://www.techstars.com/startup-accelerator/) (free stuff) from companies such as Amazon, Digital Ocean, Microsoft, Google, Sendgrid, etc.
 
-We'll we're off to New York.
+Well, we're off to New York.
 
 ![](/uploads/2017/12/Forestry.io-in-NY.jpg)
 (The flight attendand gave us his selfie stick for this photo)
